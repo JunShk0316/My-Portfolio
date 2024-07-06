@@ -98,6 +98,10 @@ a {
   animation-delay: 1s;
 }
 
+.dnone {
+  display: none;
+}
+
 .home-content h3 {
   position: relative;
   font-size: 32px;
