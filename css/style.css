@@ -102,6 +102,10 @@ a {
   display: none;
 }
 
+.dflex {
+  display: flex;
+}
+
 .home-content h3 {
   position: relative;
   font-size: 32px;
